@@ -42,7 +42,7 @@ const Demo = () => {
       onFinishFailed={onFinishFailed}
     >
       <Form.Item
-        label="Username"
+        label="Usernameadadfa"
         name="username"
         rules={[{ required: true, message: 'Please input your username!' }]}
       >
